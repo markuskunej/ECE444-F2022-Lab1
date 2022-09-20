@@ -15,3 +15,11 @@ Markus Kunej
 **Activity 3 (after merging)**
 
 ![](images/Activity3_after_merge.png)
+
+**Activity 4**
+
+https://github.com/raineyfu/ECE444-F2022-Lab1
+
+![](images/Activity4(me).png
+
+![](images/Activity4(teammate).png)
