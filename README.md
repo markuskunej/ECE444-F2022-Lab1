@@ -23,3 +23,9 @@ https://github.com/raineyfu/ECE444-F2022-Lab1
 ![](images/Activity4(me).png
 
 ![](images/Activity4(teammate).png)
+
+**Activity 5**
+
+The rebase was completed on the 'rebase' branch
+
+![](images/Activity5.png)
