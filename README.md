@@ -29,3 +29,25 @@ https://github.com/raineyfu/ECE444-F2022-Lab1
 The rebase was completed on the 'rebase' branch
 
 ![](images/Activity5.png)
+
+**Activity 6**
+
+https://github.com/markuskunej/ECE444-F2022-EP
+
+**Activity 7**
+
+Rebase Command
+
+![](images/Activity7(rebase).png)
+
+Title Change
+
+![](images/Activity7(title).png)
+
+**Activity 8**
+
+Rebase
+
+![](images/Activity8(rebase).png)
+
+![](images/Activity8(tab).png)
