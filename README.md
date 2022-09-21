@@ -38,7 +38,7 @@ https://github.com/markuskunej/ECE444-F2022-EP
 
 Rebase Command
 
-![](images/Activity7(rebase).png)
+![](images/Activity7_rebase.png)
 
 Title Change
 
@@ -48,6 +48,6 @@ Title Change
 
 Rebase
 
-![](images/Activity8(rebase).png)
+![](images/Activity8_rebase.png)
 
 ![](images/Activity8(tab).png)
